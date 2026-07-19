@@ -1,0 +1,6 @@
+{
+  "name": "BBA Shipping & Logistics Portfolio Builder",
+  "description": "An interactive portfolio builder, advice center, and resume tuner for BBA Shipping and Logistics graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
